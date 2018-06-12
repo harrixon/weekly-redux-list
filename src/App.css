@@ -1,0 +1,29 @@
+body {
+  text-align: center
+}
+
+#root {
+  width: 100vw
+}
+
+.App {
+  width: 100vw;
+  padding: 0 10%
+}
+
+.input-group {
+  margin: 0.5%
+}
+
+.display {
+  width: 100vw;
+  margin: 0.5%
+}
+
+li {
+  overflow-wrap: break-word;
+}
+
+.nav-tab {
+  margin: 0 0.5%
+}
